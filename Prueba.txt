@@ -1,0 +1,25 @@
+Microsoft Windows [Versión 10.0.22000.2538]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\Familia Coronell\OneDrive\Desktop\Proyecto>cd desktop
+El sistema no puede encontrar la ruta especificada.
+
+C:\Users\Familia Coronell\OneDrive\Desktop\Proyecto>git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\Familia Coronell\OneDrive\Desktop\Proyecto>git ini
+git: 'ini' is not a git command. See 'git --help'.
+
+The most similar commands are
+        init
+        gui
+        init-db
+
+C:\Users\Familia Coronell\OneDrive\Desktop\Proyecto>git init
+Reinitialized existing Git repository in C:/Users/Familia Coronell/OneDrive/Desktop/Proyecto/.git/
+
+C:\Users\Familia Coronell\OneDrive\Desktop\Proyecto>
